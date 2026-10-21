@@ -760,5 +760,29 @@
     ],
     "donor": true,
     "friend": false
+  },
+  {
+    "name": "CatBoyAury",
+    "roles": [
+      "vip"
+    ],
+    "donor": false,
+    "friend": true
+  },
+  {
+    "name": "FalleN - FURIA",
+    "roles": [
+      "vip"
+    ],
+    "donor": false,
+    "friend": false
+  },
+  {
+    "name": "lNily",
+    "roles": [
+      "vip"
+    ],
+    "donor": false,
+    "friend": false
   }
 ]
